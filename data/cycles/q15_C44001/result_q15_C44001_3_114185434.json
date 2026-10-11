@@ -1,0 +1,7 @@
+{
+ "q": 15, "C": 44001, "B": 114185434, "mlo": 3, "mhi": 114185434,
+ "candidates": 15224724, "drop": 2447319, "survive": 12777405, "found": 0,
+ "total_steps": 516850675918, "survivor_steps": 516847354326,
+ "seconds": 5514.186, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q15_C44001.txt", "dump": false, "block": true
+}

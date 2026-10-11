@@ -1,0 +1,4 @@
+=== start 2026-10-04T07:41:32.483521+00:00 {"q": 1023, "C": 94354, "threads": 16, "staircase": "data/bounds/staircase_q1023_C94354.txt", "staircase_body_sha256": "2e4cef06bd4f7515ad234b13c251f1c79e4b98e7369ba90e2cef27f1ad97120f", "exe_sha256": "3617babe38de201354650d4cc6ab8c7d4159368d696b68bcc0b33ed2919a9d7e", "machine": {"platform": "Windows-11-10.0.26300-SP0", "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD", "cpu_count": 16}, "started": "2026-10-04T07:41:32.483521+00:00"}
+m in [3,8126136): cand 39718 drop 82 surv 39636 found 0  673.5s
+q=1023 C=94354 B=8126136 m in [3,8126136): candidates 39718, drop 82, survive 39636, FOUND 0, 673.5s
+=== end 2026-10-04T07:52:46.014104+00:00 exit=0

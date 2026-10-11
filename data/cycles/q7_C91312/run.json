@@ -1,0 +1,37 @@
+{
+ "q": 7,
+ "C": 91312,
+ "threads": 16,
+ "staircase": "data/bounds/staircase_q7_C91312.txt",
+ "staircase_body_sha256": "57a7fa2893b378aa2bbcba98043fb0afe03079b83b1115e869f71baa743bd457",
+ "exe_sha256": "3617babe38de201354650d4cc6ab8c7d4159368d696b68bcc0b33ed2919a9d7e",
+ "machine": {
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "cpu_count": 16
+ },
+ "started": "2026-10-03T12:51:59.667837+00:00",
+ "finished": "2026-10-03T12:51:59.684395+00:00",
+ "exit_code": 0,
+ "summary": "q=7 C=91312 B=55427259 m in [3,55427259): candidates 11877269, drop 4732955, survive 7144314, FOUND 0, 5826.1s",
+ "result": {
+  "q": 7,
+  "C": 91312,
+  "B": 55427259,
+  "mlo": 3,
+  "mhi": 55427259,
+  "candidates": 11877269,
+  "drop": 4732955,
+  "survive": 7144314,
+  "found": 0,
+  "total_steps": 640513135897,
+  "survivor_steps": 640502531330,
+  "seconds": 5826.102,
+  "threads": 16,
+  "gmp": "6.3.0",
+  "compiler": "16.2.0",
+  "staircase": "data/bounds/staircase_q7_C91312.txt",
+  "dump": false,
+  "block": true
+ }
+}

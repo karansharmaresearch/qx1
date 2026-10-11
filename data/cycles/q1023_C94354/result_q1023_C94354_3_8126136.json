@@ -1,0 +1,7 @@
+{
+ "q": 1023, "C": 94354, "B": 8126136, "mlo": 3, "mhi": 8126136,
+ "candidates": 39718, "drop": 82, "survive": 39636, "found": 0,
+ "total_steps": 2882541532, "survivor_steps": 2882541446,
+ "seconds": 673.516, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q1023_C94354.txt", "dump": false, "block": true
+}

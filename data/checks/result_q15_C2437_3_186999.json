@@ -1,0 +1,7 @@
+{
+ "q": 15, "C": 2437, "B": 186999, "mlo": 3, "mhi": 186999,
+ "candidates": 24932, "drop": 4014, "survive": 20918, "found": 0,
+ "total_steps": 42769492, "survivor_steps": 42764017,
+ "seconds": 2.028, "threads": 1, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q15_C2437.txt", "dump": true, "block": false
+}

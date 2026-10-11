@@ -1,0 +1,45 @@
+{
+ "cases": [
+  {
+   "q": 7,
+   "D": 12,
+   "nodes_c": 4768,
+   "nodes_py": 4768,
+   "hist_equal": true,
+   "pass": true
+  },
+  {
+   "q": 7,
+   "D": 16,
+   "nodes_c": 149147,
+   "nodes_py": 149147,
+   "hist_equal": true,
+   "pass": true
+  },
+  {
+   "q": 15,
+   "D": 30,
+   "nodes_c": 11240,
+   "nodes_py": 11240,
+   "hist_equal": true,
+   "pass": true
+  },
+  {
+   "q": 31,
+   "D": 36,
+   "nodes_c": 229,
+   "nodes_py": 229,
+   "hist_equal": true,
+   "pass": true
+  },
+  {
+   "q": 63,
+   "D": 36,
+   "nodes_c": 78,
+   "nodes_py": 78,
+   "hist_equal": true,
+   "pass": true
+  }
+ ],
+ "all_pass": true
+}

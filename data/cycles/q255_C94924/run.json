@@ -1,0 +1,37 @@
+{
+ "q": 255,
+ "C": 94924,
+ "threads": 16,
+ "staircase": "data/bounds/staircase_q255_C94924.txt",
+ "staircase_body_sha256": "da9cc38aef0ffeb5b81d81aa47f3b7bddfee55af8e602b850965645f7ad98159",
+ "exe_sha256": "3617babe38de201354650d4cc6ab8c7d4159368d696b68bcc0b33ed2919a9d7e",
+ "machine": {
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "cpu_count": 16
+ },
+ "started": "2026-10-04T07:09:08.227065+00:00",
+ "finished": "2026-10-04T07:34:02.602824+00:00",
+ "exit_code": 0,
+ "summary": "q=255 C=94924 B=7871978 m in [3,7871978): candidates 123480, drop 1003, survive 122477, FOUND 0, 1494.4s",
+ "result": {
+  "q": 255,
+  "C": 94924,
+  "B": 7871978,
+  "mlo": 3,
+  "mhi": 7871978,
+  "candidates": 123480,
+  "drop": 1003,
+  "survive": 122477,
+  "found": 0,
+  "total_steps": 10268776693,
+  "survivor_steps": 10268775652,
+  "seconds": 1494.36,
+  "threads": 16,
+  "gmp": "6.3.0",
+  "compiler": "16.2.0",
+  "staircase": "data/bounds/staircase_q255_C94924.txt",
+  "dump": false,
+  "block": true
+ }
+}

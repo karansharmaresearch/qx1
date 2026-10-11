@@ -1,0 +1,7 @@
+{
+ "q": 63, "C": 12631, "B": 2582236, "mlo": 3, "mhi": 2582236,
+ "candidates": 122963, "drop": 4191, "survive": 118772, "found": 0,
+ "total_steps": 1252221456, "survivor_steps": 1252216860,
+ "seconds": 14.522, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q63_C12631.txt", "dump": false, "block": true
+}

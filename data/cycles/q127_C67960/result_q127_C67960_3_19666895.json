@@ -1,0 +1,7 @@
+{
+ "q": 127, "C": 67960, "B": 19666895, "mlo": 3, "mhi": 19666895,
+ "candidates": 542001, "drop": 8909, "survive": 533092, "found": 0,
+ "total_steps": 32436453829, "survivor_steps": 32436444434,
+ "seconds": 2395.634, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q127_C67960.txt", "dump": false, "block": true
+}

@@ -1,0 +1,10 @@
+=== start 2026-10-03T11:14:07.340833+00:00 {"q": 7, "C": 91312, "threads": 16, "staircase": "data/bounds/staircase_q7_C91312.txt", "staircase_body_sha256": "57a7fa2893b378aa2bbcba98043fb0afe03079b83b1115e869f71baa743bd457", "exe_sha256": "3617babe38de201354650d4cc6ab8c7d4159368d696b68bcc0b33ed2919a9d7e", "machine": {"platform": "Windows-11-10.0.26200-SP0", "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD", "cpu_count": 16}, "started": "2026-10-03T11:14:07.340833+00:00"}
+m in [3,16777219): cand 3595117 drop 1432815 surv 2162302 found 0  1725.3s
+m in [16777219,33554435): cand 3595118 drop 1432391 surv 2162727 found 0  1765.4s
+m in [33554435,50331651): cand 3595118 drop 1432746 surv 2162372 found 0  1781.3s
+m in [50331651,55427259): cand 1091916 drop 435003 surv 656913 found 0  554.1s
+q=7 C=91312 B=55427259 m in [3,55427259): candidates 11877269, drop 4732955, survive 7144314, FOUND 0, 5826.1s
+=== start 2026-10-03T12:51:59.667837+00:00 {"q": 7, "C": 91312, "threads": 16, "staircase": "data/bounds/staircase_q7_C91312.txt", "staircase_body_sha256": "57a7fa2893b378aa2bbcba98043fb0afe03079b83b1115e869f71baa743bd457", "exe_sha256": "3617babe38de201354650d4cc6ab8c7d4159368d696b68bcc0b33ed2919a9d7e", "machine": {"platform": "Windows-11-10.0.26200-SP0", "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD", "cpu_count": 16}, "started": "2026-10-03T12:51:59.667837+00:00"}
+resuming at m = 55427259
+q=7 C=91312 B=55427259 m in [3,55427259): candidates 11877269, drop 4732955, survive 7144314, FOUND 0, 5826.1s
+=== end 2026-10-03T12:51:59.684395+00:00 exit=0

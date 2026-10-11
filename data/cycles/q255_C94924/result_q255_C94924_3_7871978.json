@@ -1,0 +1,7 @@
+{
+ "q": 255, "C": 94924, "B": 7871978, "mlo": 3, "mhi": 7871978,
+ "candidates": 123480, "drop": 1003, "survive": 122477, "found": 0,
+ "total_steps": 10268776693, "survivor_steps": 10268775652,
+ "seconds": 1494.360, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q255_C94924.txt", "dump": false, "block": true
+}

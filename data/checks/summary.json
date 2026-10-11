@@ -1,0 +1,111 @@
+{
+ "started": "2026-10-03T10:40:56.241947+00:00",
+ "tests": [
+  {
+   "q": 5,
+   "C": 100,
+   "mhi": null,
+   "candidates": 1090,
+   "found": [
+    13,
+    17
+   ],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.04,
+   "c_noblock_seconds": 0.03,
+   "python_seconds": 0.01,
+   "pass": true
+  },
+  {
+   "q": 3,
+   "C": 60,
+   "mhi": null,
+   "candidates": 396,
+   "found": [],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.02,
+   "c_noblock_seconds": 0.03,
+   "python_seconds": 0.0,
+   "pass": true
+  },
+  {
+   "q": 181,
+   "C": 10,
+   "mhi": null,
+   "candidates": 25,
+   "found": [
+    27,
+    35
+   ],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.03,
+   "c_noblock_seconds": 0.03,
+   "python_seconds": 0.0,
+   "pass": true
+  },
+  {
+   "q": 7,
+   "C": 2963,
+   "mhi": null,
+   "candidates": 74277,
+   "found": [],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 1.64,
+   "c_noblock_seconds": 6.33,
+   "python_seconds": 78.05,
+   "pass": true
+  },
+  {
+   "q": 15,
+   "C": 2437,
+   "mhi": null,
+   "candidates": 24932,
+   "found": [],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.51,
+   "c_noblock_seconds": 2.09,
+   "python_seconds": 36.58,
+   "pass": true
+  },
+  {
+   "q": 31,
+   "C": 3645,
+   "mhi": null,
+   "candidates": 1735,
+   "found": [],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.14,
+   "c_noblock_seconds": 0.56,
+   "python_seconds": 11.92,
+   "pass": true
+  },
+  {
+   "q": 7,
+   "C": 32603,
+   "mhi": 8000,
+   "candidates": 1713,
+   "found": [],
+   "candidate_sets_equal": true,
+   "mismatches": 0,
+   "block_equals_noblock": true,
+   "c_seconds": 0.62,
+   "c_noblock_seconds": 6.54,
+   "python_seconds": 145.97,
+   "pass": true
+  }
+ ],
+ "all_pass": true,
+ "finished": "2026-10-03T10:45:47.419873+00:00"
+}

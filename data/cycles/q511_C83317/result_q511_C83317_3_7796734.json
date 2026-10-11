@@ -1,0 +1,7 @@
+{
+ "q": 511, "C": 83317, "B": 7796734, "mlo": 3, "mhi": 7796734,
+ "candidates": 68660, "drop": 283, "survive": 68377, "found": 0,
+ "total_steps": 3502718510, "survivor_steps": 3502718212,
+ "seconds": 446.127, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q511_C83317.txt", "dump": false, "block": true
+}

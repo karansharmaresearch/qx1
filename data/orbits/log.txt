@@ -1,0 +1,9 @@
+=== 2026-10-04T08:55:58.777015+00:00 S=100000 NSTART=500 gmpy2=2.3.1
+q=7: orbit of 3 -> 81171 bits after 100000 odd steps (0.8117/step vs log2(q/4)=0.8074); chi2(v) orbit3 p=0.947, small p=0.181; odd n<=999: 8 reach 1 (all n: 40), 140 independent escaping orbits; 0.42s
+q=15: orbit of 3 -> 189836 bits after 100000 odd steps (1.8983/step vs log2(q/4)=1.9069); chi2(v) orbit3 p=0.336, small p=0.264; odd n<=999: 5 reach 1 (all n: 28), 297 independent escaping orbits; 0.51s
+q=31: orbit of 3 -> 296182 bits after 100000 odd steps (2.9618/step vs log2(q/4)=2.9542); chi2(v) orbit3 p=0.648, small p=0.688; odd n<=999: 4 reach 1 (all n: 22), 383 independent escaping orbits; 0.57s
+q=63: orbit of 3 -> 397418 bits after 100000 odd steps (3.9742/step vs log2(q/4)=3.9773); chi2(v) orbit3 p=0.249, small p=0.177; odd n<=999: 3 reach 1 (all n: 19), 438 independent escaping orbits; 0.74s
+q=127: orbit of 3 -> 498788 bits after 100000 odd steps (4.9879/step vs log2(q/4)=4.9887); chi2(v) orbit3 p=0.221, small p=0.364; odd n<=999: 3 reach 1 (all n: 17), 463 independent escaping orbits; 0.71s
+q=255: orbit of 3 -> 598757 bits after 100000 odd steps (5.9875/step vs log2(q/4)=5.9944); chi2(v) orbit3 p=0.306, small p=0.72; odd n<=999: 3 reach 1 (all n: 15), 476 independent escaping orbits; 0.77s
+q=511: orbit of 3 -> 699242 bits after 100000 odd steps (6.9924/step vs log2(q/4)=6.9972); chi2(v) orbit3 p=0.604, small p=0.203; odd n<=999: 3 reach 1 (all n: 13), 483 independent escaping orbits; 0.87s
+q=1023: orbit of 3 -> 799005 bits after 100000 odd steps (7.9900/step vs log2(q/4)=7.9986); chi2(v) orbit3 p=0.171, small p=0.442; odd n<=999: 2 reach 1 (all n: 11), 494 independent escaping orbits; 0.91s

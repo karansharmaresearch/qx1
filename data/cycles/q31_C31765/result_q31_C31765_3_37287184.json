@@ -1,0 +1,7 @@
+{
+ "q": 31, "C": 31765, "B": 37287184, "mlo": 3, "mhi": 37287184,
+ "candidates": 3007030, "drop": 217838, "survive": 2789192, "found": 0,
+ "total_steps": 78970445869, "survivor_steps": 78970189451,
+ "seconds": 1191.761, "threads": 16, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q31_C31765.txt", "dump": false, "block": true
+}

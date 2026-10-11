@@ -1,0 +1,7 @@
+{
+ "q": 5, "C": 100, "B": 2728, "mlo": 3, "mhi": 2728,
+ "candidates": 1090, "drop": 707, "survive": 381, "found": 2,
+ "total_steps": 30736, "survivor_steps": 27265,
+ "seconds": 0.000, "threads": 1, "gmp": "6.3.0", "compiler": "16.2.0",
+ "staircase": "data/bounds/staircase_q5_C100.txt", "dump": true, "block": false
+}

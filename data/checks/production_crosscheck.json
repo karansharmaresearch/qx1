@@ -1,0 +1,391 @@
+{
+ "nc": 30,
+ "cases": [
+  {
+   "q": 7,
+   "C": 91312,
+   "mlo": 9,
+   "mhi": 142,
+   "candidates": 30,
+   "outcomes": {
+    "D": 12,
+    "S": 18,
+    "F": 0
+   },
+   "max_steps": 91312,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 7,
+   "C": 91312,
+   "mlo": 27713631,
+   "mhi": 27713768,
+   "candidates": 30,
+   "outcomes": {
+    "D": 12,
+    "S": 18,
+    "F": 0
+   },
+   "max_steps": 88920,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 7,
+   "C": 91312,
+   "mlo": 55426827,
+   "mhi": 55426964,
+   "candidates": 30,
+   "outcomes": {
+    "D": 15,
+    "S": 15,
+    "F": 0
+   },
+   "max_steps": 88920,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 15,
+   "C": 44001,
+   "mlo": 17,
+   "mhi": 230,
+   "candidates": 30,
+   "outcomes": {
+    "D": 4,
+    "S": 26,
+    "F": 0
+   },
+   "max_steps": 44001,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 15,
+   "C": 44001,
+   "mlo": 57092717,
+   "mhi": 57092930,
+   "candidates": 30,
+   "outcomes": {
+    "D": 6,
+    "S": 24,
+    "F": 0
+   },
+   "max_steps": 39953,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 15,
+   "C": 44001,
+   "mlo": 114184517,
+   "mhi": 114184730,
+   "candidates": 30,
+   "outcomes": {
+    "D": 4,
+    "S": 26,
+    "F": 0
+   },
+   "max_steps": 39953,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 31,
+   "C": 31765,
+   "mlo": 33,
+   "mhi": 374,
+   "candidates": 30,
+   "outcomes": {
+    "D": 3,
+    "S": 27,
+    "F": 0
+   },
+   "max_steps": 31765,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 31,
+   "C": 31765,
+   "mlo": 18643619,
+   "mhi": 18643960,
+   "candidates": 30,
+   "outcomes": {
+    "D": 4,
+    "S": 26,
+    "F": 0
+   },
+   "max_steps": 28251,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 31,
+   "C": 31765,
+   "mlo": 37285283,
+   "mhi": 37285624,
+   "candidates": 30,
+   "outcomes": {
+    "D": 4,
+    "S": 26,
+    "F": 0
+   },
+   "max_steps": 28251,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 63,
+   "C": 12631,
+   "mlo": 65,
+   "mhi": 632,
+   "candidates": 30,
+   "outcomes": {
+    "D": 3,
+    "S": 27,
+    "F": 0
+   },
+   "max_steps": 12631,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 63,
+   "C": 12631,
+   "mlo": 1291123,
+   "mhi": 1291722,
+   "candidates": 30,
+   "outcomes": {
+    "D": 1,
+    "S": 29,
+    "F": 0
+   },
+   "max_steps": 9463,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 63,
+   "C": 12631,
+   "mlo": 2578339,
+   "mhi": 2578938,
+   "candidates": 30,
+   "outcomes": {
+    "D": 1,
+    "S": 29,
+    "F": 0
+   },
+   "max_steps": 9463,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 127,
+   "C": 67960,
+   "mlo": 129,
+   "mhi": 1148,
+   "candidates": 30,
+   "outcomes": {
+    "D": 3,
+    "S": 27,
+    "F": 0
+   },
+   "max_steps": 67960,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 127,
+   "C": 67960,
+   "mlo": 9833485,
+   "mhi": 9834504,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 67254,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 127,
+   "C": 67960,
+   "mlo": 19659029,
+   "mhi": 19660110,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 54086,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 255,
+   "C": 94924,
+   "mlo": 257,
+   "mhi": 1850,
+   "candidates": 30,
+   "outcomes": {
+    "D": 3,
+    "S": 27,
+    "F": 0
+   },
+   "max_steps": 94924,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 255,
+   "C": 94924,
+   "mlo": 3935989,
+   "mhi": 3937974,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 80580,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 255,
+   "C": 94924,
+   "mlo": 7856297,
+   "mhi": 7857890,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 80580,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 511,
+   "C": 83317,
+   "mlo": 513,
+   "mhi": 3586,
+   "candidates": 30,
+   "outcomes": {
+    "D": 3,
+    "S": 27,
+    "F": 0
+   },
+   "max_steps": 83126,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 511,
+   "C": 83317,
+   "mlo": 3898421,
+   "mhi": 3901494,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 43609,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 511,
+   "C": 83317,
+   "mlo": 7765157,
+   "mhi": 7768738,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 43609,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 1023,
+   "C": 94354,
+   "mlo": 1025,
+   "mhi": 6140,
+   "candidates": 30,
+   "outcomes": {
+    "D": 2,
+    "S": 28,
+    "F": 0
+   },
+   "max_steps": 93736,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 1023,
+   "C": 94354,
+   "mlo": 4063357,
+   "mhi": 4068984,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 66687,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  },
+  {
+   "q": 1023,
+   "C": 94354,
+   "mlo": 8062775,
+   "mhi": 8068658,
+   "candidates": 30,
+   "outcomes": {
+    "D": 0,
+    "S": 30,
+    "F": 0
+   },
+   "max_steps": 66687,
+   "block_eq_noblock": true,
+   "c_eq_python": true,
+   "pass": true
+  }
+ ],
+ "all_pass": true,
+ "exe_note": "code/cycles.exe (the production binary)"
+}
