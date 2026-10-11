@@ -5,6 +5,7 @@ code and data for the map n -> (q*n + 1) / 2^v on odd n, with q = 7, 15, 31 up t
 code/cycles.c searches for cycles (needs GMP and OpenMP)
 code/tree.c finds numbers that reach 1
 code/bounds.py gives the bounds on the smallest number in a cycle
+code/gamma.py gives 100 digits of the root of q^(x-1) = 2^x - 1, saved in data/gamma/gamma.txt
 the check_ files compare the C programs with python
 data has the output of all runs
 
